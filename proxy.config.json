@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "https://raw.githubusercontent.com/preeti271993/ecommerce-api/master",
+    "secure": false
+  }
+}
